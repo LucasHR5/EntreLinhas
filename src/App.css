@@ -4,42 +4,7 @@
   background-image: linear-gradient(90deg, #5a7791 35%, #022742);
 }
 
-.App-header {
-  display: flex;;
-  background-color: #fff;
-  justify-content: center;
-}
-
 li {
   list-style: none;
 }
 
-.options {
-  display: flex;
-}
-
-.optionsChild {
-  display: flex;
-  min-width: 120px;
-  font-size: 16px;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  height: 100%;
-  padding: 0 5px;
-  cursor: pointer;
-  min-width: 120px;
-}
-
-.icons{
-  display: flex;
-  align-items: center;
-}
-.iconsChild{
-  margin-right: 40px;
-  width: 25px;
-}
-.optionsChild:hover{
-  background-color: #f4f8fa;
-  border-radius: 4px;
-}
